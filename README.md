@@ -10,4 +10,6 @@ https://github.com/anikethmehta/LAB11/blob/main/code1.png
 
 https://github.com/anikethmehta/LAB11/blob/main/code2.png
 
+https://github.com/anikethmehta/LAB11/blob/main/textfile.png
+
 Output:
