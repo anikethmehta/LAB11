@@ -1,4 +1,5 @@
-### ***Title*** : LAB11
+### ***Date*** : 21-25 September 2023
+### ***Title*** : LAB7
 ### ***Aim*** : Read a txt file and print in all capitals on screen with cmd line argument.
 ### ***Algorithm*** :
 
